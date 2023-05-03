@@ -23,3 +23,7 @@ class ___FILEBASENAMEASIDENTIFIER___: BaseViewController {
 extension ___FILEBASENAMEASIDENTIFIER___ {
 
 }
+
+extension ___FILEBASENAMEASIDENTIFIER___: ___VARIABLE_productName:identifier___ViewProtocol {
+
+}
